@@ -19,4 +19,7 @@ Throughout this project, I've gained valuable experience in building complex lay
 
 Feel free to explore the code and provide any feedback or suggestions for improvement. Happy coding!
 
+![Screenshot YouTube Clone Example](https:/YouTube-Clone-Project/Screenshot YouTube Clone Example.png)
+
+
 
